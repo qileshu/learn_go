@@ -1,0 +1,199 @@
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:22, Provider_TPS: 75660.77, resp_avg:0.14 ms, currency:10.1, Consumer_TPS:12.33, resp_avg_consumer:98.71
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:23, Provider_TPS: 1885.00, resp_avg:0.78 ms, currency:12.1, Consumer_TPS:862.26, resp_avg_consumer:1.23
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:24, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:749.10, resp_avg_consumer:1.34
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:25, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:679.03, resp_avg_consumer:1.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:26, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:706.01, resp_avg_consumer:1.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:27, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:694.15, resp_avg_consumer:1.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:28, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:635.10, resp_avg_consumer:1.62
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:29, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:5530.91, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:30, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6732.40, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:31, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.0, Consumer_TPS:6988.36, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:32, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6874.69, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:33, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6997.89, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:34, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6668.76, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:35, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6787.33, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:36, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:7147.55, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:37, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6909.85, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:38, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:7211.88, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:39, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6838.40, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:40, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6947.75, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:41, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6889.05, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:42, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:6912.16, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:43, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:52.97, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:44, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:45, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:46, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:27:47, Provider_TPS: 0.00, resp_avg:NaN ms, currency:12.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:225: time used: 21.521619378s
+[Rabbitmq_Perf_Test]new_task.go:226: consumer received, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:227: provider send, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:228: consumer total:10
+
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:25, Provider_TPS: 65582.46, resp_avg:0.12 ms, currency:7.6, Consumer_TPS:98.76, resp_avg_consumer:12.55
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:26, Provider_TPS: 16019.20, resp_avg:0.17 ms, currency:10.3, Consumer_TPS:2836.07, resp_avg_consumer:0.36
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:27, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3220.20, resp_avg_consumer:0.31
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:28, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3404.70, resp_avg_consumer:0.29
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:29, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3499.98, resp_avg_consumer:0.29
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:30, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3551.77, resp_avg_consumer:0.28
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:31, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:3247.81, resp_avg_consumer:0.31
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:32, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3034.72, resp_avg_consumer:0.33
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:33, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3050.04, resp_avg_consumer:0.33
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:34, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:3097.36, resp_avg_consumer:0.32
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:35, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:2909.65, resp_avg_consumer:0.35
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:36, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:2966.56, resp_avg_consumer:0.34
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:38, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:5665.72, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:39, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6715.39, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:40, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6592.89, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:41, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:6794.74, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:42, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6786.80, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:43, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:6794.76, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:44, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6849.72, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:45, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6791.70, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:46, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.3, Consumer_TPS:6902.78, resp_avg_consumer:0.14
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:47, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:4691.81, resp_avg_consumer:0.15
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:48, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:49, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:50, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:51, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:28:52, Provider_TPS: 0.00, resp_avg:NaN ms, currency:10.4, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:225: time used: 22.678448276s
+[Rabbitmq_Perf_Test]new_task.go:226: consumer received, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:227: provider send, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:228: consumer total:50
+
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:17, Provider_TPS: 52311.62, resp_avg:0.02 ms, currency:0.9, Consumer_TPS:1287.25, resp_avg_consumer:0.78
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:18, Provider_TPS: 34178.94, resp_avg:0.02 ms, currency:1.5, Consumer_TPS:2907.45, resp_avg_consumer:0.35
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:19, Provider_TPS: 12682.54, resp_avg:0.03 ms, currency:1.9, Consumer_TPS:5179.51, resp_avg_consumer:0.19
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:20, Provider_TPS: 0.00, resp_avg:NaN ms, currency:1.9, Consumer_TPS:5568.76, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:21, Provider_TPS: 0.00, resp_avg:+Inf ms, currency:4.7, Consumer_TPS:5804.08, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:22, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5607.24, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:23, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5724.11, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:24, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5633.96, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:25, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5805.35, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:26, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5852.53, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:27, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5749.59, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:28, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5875.20, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:29, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5677.58, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:30, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5829.72, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:31, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5731.04, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:32, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5607.29, resp_avg_consumer:0.18
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:33, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5915.86, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:34, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:5797.24, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:35, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:3874.40, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:36, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:37, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:38, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:39, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:31:40, Provider_TPS: 0.00, resp_avg:NaN ms, currency:4.7, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:225: time used: 19.734032828s
+[Rabbitmq_Perf_Test]new_task.go:226: consumer received, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:227: provider send, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:228: consumer total:100
+
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:19, Provider_TPS: 36496.89, resp_avg:0.02 ms, currency:0.9, Consumer_TPS:1962.84, resp_avg_consumer:0.52
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:20, Provider_TPS: 48825.17, resp_avg:0.02 ms, currency:1.8, Consumer_TPS:1655.76, resp_avg_consumer:0.61
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:21, Provider_TPS: 13460.81, resp_avg:0.02 ms, currency:2.1, Consumer_TPS:4708.54, resp_avg_consumer:0.21
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:22, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:5985.23, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:23, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:6049.17, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:24, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2553.25, resp_avg_consumer:0.39
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:25, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1529.91, resp_avg_consumer:0.66
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:26, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2004.40, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:27, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1990.71, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:28, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1566.55, resp_avg_consumer:0.63
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:29, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2401.86, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:30, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1527.56, resp_avg_consumer:0.66
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:31, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2331.03, resp_avg_consumer:0.43
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:32, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1698.46, resp_avg_consumer:0.59
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:33, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2151.34, resp_avg_consumer:0.47
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:34, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1914.28, resp_avg_consumer:0.52
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:35, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2064.47, resp_avg_consumer:0.49
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:36, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2012.27, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:37, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1990.72, resp_avg_consumer:0.51
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:38, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2066.99, resp_avg_consumer:0.49
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:39, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1907.10, resp_avg_consumer:0.53
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:40, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2198.14, resp_avg_consumer:0.46
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:41, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1741.76, resp_avg_consumer:0.58
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:42, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2299.38, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:43, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1602.57, resp_avg_consumer:0.63
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:44, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2374.04, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:45, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1636.76, resp_avg_consumer:0.62
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:46, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2435.41, resp_avg_consumer:0.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:47, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1602.28, resp_avg_consumer:0.62
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:48, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2489.40, resp_avg_consumer:0.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:49, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1590.25, resp_avg_consumer:0.63
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:50, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2407.45, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:51, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1665.41, resp_avg_consumer:0.60
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:52, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2437.11, resp_avg_consumer:0.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:53, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1713.58, resp_avg_consumer:0.59
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:54, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2366.72, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:55, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1762.74, resp_avg_consumer:0.57
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:56, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2259.25, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:57, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1807.03, resp_avg_consumer:0.55
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:58, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2295.00, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:32:59, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1806.32, resp_avg_consumer:0.56
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:00, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1990.50, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:02, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1884.62, resp_avg_consumer:0.53
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:03, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1522.04, resp_avg_consumer:0.66
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:04, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1484.47, resp_avg_consumer:0.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:05, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:06, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:07, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:08, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:09, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:225: time used: 45.820637124s
+[Rabbitmq_Perf_Test]new_task.go:226: consumer received, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:227: provider send, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:228: consumer total:150
+
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:51, Provider_TPS: 38802.38, resp_avg:0.02 ms, currency:0.9, Consumer_TPS:1817.24, resp_avg_consumer:0.56
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:52, Provider_TPS: 45471.35, resp_avg:0.02 ms, currency:1.9, Consumer_TPS:1791.17, resp_avg_consumer:0.56
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:53, Provider_TPS: 15106.73, resp_avg:0.02 ms, currency:2.2, Consumer_TPS:4507.37, resp_avg_consumer:0.22
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:54, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:5355.83, resp_avg_consumer:0.19
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:55, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:5758.19, resp_avg_consumer:0.17
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:56, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2528.88, resp_avg_consumer:0.40
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:57, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2267.41, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:58, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1962.62, resp_avg_consumer:0.51
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:33:59, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2472.34, resp_avg_consumer:0.41
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:00, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2242.31, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:01, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1957.51, resp_avg_consumer:0.51
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:02, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2327.98, resp_avg_consumer:0.43
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:03, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1899.07, resp_avg_consumer:0.53
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:04, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2255.42, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:05, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2216.01, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:06, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1995.62, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:07, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2415.62, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:08, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2094.43, resp_avg_consumer:0.48
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:09, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2173.82, resp_avg_consumer:0.46
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:10, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2316.27, resp_avg_consumer:0.43
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:11, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:1975.13, resp_avg_consumer:0.51
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:12, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2373.73, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:13, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2141.36, resp_avg_consumer:0.47
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:14, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2012.50, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:15, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2393.19, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:16, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2014.95, resp_avg_consumer:0.50
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:17, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2223.95, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:18, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2227.64, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:19, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1882.62, resp_avg_consumer:0.53
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:20, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2385.98, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:21, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2106.82, resp_avg_consumer:0.47
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:22, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2172.85, resp_avg_consumer:0.46
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:23, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2261.43, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:24, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1885.72, resp_avg_consumer:0.53
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:25, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2391.63, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:26, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2116.81, resp_avg_consumer:0.47
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:27, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2117.44, resp_avg_consumer:0.47
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:28, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2305.21, resp_avg_consumer:0.44
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:29, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1973.75, resp_avg_consumer:0.51
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:30, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.1, Consumer_TPS:2392.10, resp_avg_consumer:0.42
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:31, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:2226.79, resp_avg_consumer:0.45
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:32, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:1491.40, resp_avg_consumer:0.46
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:33, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:34, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:35, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:36, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:56: TIME:2016-10-29 10:34:37, Provider_TPS: 0.00, resp_avg:NaN ms, currency:2.2, Consumer_TPS:0.00, resp_avg_consumer:NaN
+[Rabbitmq_Perf_Test]new_task.go:225: time used: 42.874277703s
+[Rabbitmq_Perf_Test]new_task.go:226: consumer received, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:227: provider send, sum: 100000
+[Rabbitmq_Perf_Test]new_task.go:228: consumer total:200
+

@@ -1,0 +1,179 @@
+package main
+
+import (
+	"log"
+	"os"
+	"strings"
+    "time"
+	_ "bytes"
+	"github.com/streadway/amqp"
+	"strconv"
+	"sync"
+	"sync/atomic"
+	"fmt"
+)
+
+var provider_send_total int64 = 30000
+var consumer_count int64 = 0
+var provider_count int64 = 0
+var last_consum_time time.Time
+var start_time time.Time
+var wg_provider sync.WaitGroup
+
+
+func failOnError(err error, msg string) {
+	if err != nil {
+		log.Fatalf("%s: %s", msg, err)
+	}
+}
+
+func Provider(provider_id int ){
+	conn, err := amqp.Dial("amqp://guest:guest@localhost:5672/")
+	failOnError(err, "Failed to connect to RabbitMQ")
+	defer conn.Close()
+	//defer atomic.AddInt64(&provider_busy_count, -1)	
+	defer wg_provider.Done()
+
+	ch, err := conn.Channel()
+	failOnError(err, "Failed to open a channel")
+	defer ch.Close()
+
+	q, err := ch.QueueDeclare(
+		"task_queue", // name
+		true,         // durable
+		false,        // delete when unused
+		false,        // exclusive
+		false,        // no-wait
+		nil,          // arguments
+	)
+	failOnError(err, "Failed to declare a queue")
+
+	body := bodyFrom(os.Args)
+	for  {
+		atomic.AddInt64(&provider_send_total, -1)
+		if provider_send_total < 0{
+			break
+		}
+		temp_body := body + "_from_provider_" + strconv.Itoa(provider_id)
+		atomic.AddInt64(&provider_count, 1)
+		err = ch.Publish(
+			"",     // exchange
+			q.Name, // routing key
+			false,  // mandatory
+			false,
+			amqp.Publishing{
+				DeliveryMode: amqp.Persistent,
+				ContentType:  "text/plain",
+				Body:         []byte(temp_body),
+			})
+		failOnError(err, "Failed to publish a message")
+		log.Printf(" [x] Sent %s", body)
+	}
+}
+
+
+func bodyFrom(args []string) string {
+	var s string
+	if (len(args) < 2) || os.Args[1] == "" {
+		s = "hello"
+	} else {
+		s = strings.Join(args[1:], " ")
+	}
+	return s
+}
+
+func consumer(num int){
+    conn, err := amqp.Dial("amqp://guest:guest@localhost:5672/")
+	failOnError(err, "Failed to connect to RabbitMQ")
+	defer conn.Close()
+
+	ch, err := conn.Channel()
+	failOnError(err, "Failed to open a channel")
+	defer ch.Close()
+
+    q, err := ch.QueueDeclare(
+		"task_queue", // name
+		true,         // durable
+		false,        // delete when unused
+		false,        // exclusive
+		false,        // no-wait
+		nil,          // arguments
+	)
+	failOnError(err, "Failed to declare a queue")
+
+
+		err = ch.Qos(
+		1,     // prefetch count
+		0,     // prefetch size
+		false, // global
+	)
+	failOnError(err, "Failed to set QoS")
+
+	msgs, err := ch.Consume(
+		q.Name, // queue
+		"",     // consumer
+		false,  // auto-ack
+		false,  // exclusive
+		false,  // no-local
+		false,  // no-wait
+		nil,    // args
+	)
+	failOnError(err, "Failed to register a consumer")
+
+
+	log.Printf(" [*] Waiting for messages. To exit press CTRL+C")
+
+	for d := range msgs {
+		last_consum_time = time.Now()
+		atomic.AddInt64(&consumer_count, 1)
+		log.Printf("Counsumer %d Received a message: %s", num,d.Body)
+		d.Ack(false)
+		log.Printf("Done")
+	}
+
+
+}
+
+
+
+
+
+func main() {
+
+	last_consum_time = time.Now()
+	start_time = time.Now()
+
+	//consumer start
+    for j := 0; j < 60; j++ {
+		go consumer(j)
+	}
+
+
+	//provider start
+	for j := 0; j < 60; j++ {
+		//atomic.AddInt64(&provider_busy_count, 1)
+		wg_provider.Add(1)
+		go Provider(j)
+	}
+
+
+
+
+    /*for provider_busy_count != 0{
+		time.Sleep(1 * time.Second)
+	}
+	*/
+
+    wg_provider.Wait()
+
+	for time.Now().Sub(last_consum_time) < 5 * time.Second{
+		time.Sleep(1 * time.Second)
+	}
+	//wg_consumer.Wait()
+	fmt.Println("consumer received, sum:", consumer_count)
+	fmt.Println("provider send, sum:", provider_count)
+	fmt.Println("time used:", time.Now() - start_time)
+}
+
+
+
